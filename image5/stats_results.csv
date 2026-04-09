@@ -1,0 +1,16 @@
+Test,Metric,Group A,Group B,Statistic,p-value,Effect Size (d),Significant
+One-Way ANOVA,Temp,All locations,—,231777.0,0.000e+00,—,Yes
+One-Way ANOVA,Humid,All locations,—,33588.48,0.000e+00,—,Yes
+One-Way ANOVA,Light,All locations,—,5942.38,0.000e+00,—,Yes
+Levene's Test,Temp,All locations,—,4528.26,0.000e+00,—,Yes
+Levene's Test,Humid,All locations,—,3112.92,0.000e+00,—,Yes
+Welch's t-test,Temp,Bedroom (Far),Bedroom (Mid),-1905.39,0.000e+00,34.73,Yes
+Welch's t-test,Temp,Bedroom (Far),Kitchen (Far),295.31,0.000e+00,5.52,Yes
+Welch's t-test,Temp,Bedroom (Far),Kitchen (Mid),40.34,0.000e+00,0.75,Yes
+Welch's t-test,Temp,Bedroom (Far),Hallway (End),-770.28,0.000e+00,14.03,Yes
+Welch's t-test,Temp,Bedroom (Far),Hallway (Mid),-746.15,0.000e+00,13.58,Yes
+Welch's t-test,Humid,Bedroom (Far),Bedroom (Mid),162.08,0.000e+00,2.96,Yes
+Welch's t-test,Humid,Bedroom (Far),Kitchen (Far),-44.28,0.000e+00,0.83,Yes
+Welch's t-test,Humid,Bedroom (Far),Kitchen (Mid),-98.06,0.000e+00,1.83,Yes
+Welch's t-test,Humid,Bedroom (Far),Hallway (End),985.58,0.000e+00,17.96,Yes
+Welch's t-test,Humid,Bedroom (Far),Hallway (Mid),412.08,0.000e+00,7.5,Yes
